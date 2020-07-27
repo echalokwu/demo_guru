@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e349d359-e0a0-4356-839b-85236921bf93" name="Default Changelist" comment="test update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/loginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/loginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_Case_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_Case_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_Case_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_Case_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1drwiCWGGiaPFJzZMKbcm9LZqSk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test.test_Case_2">
+    <configuration name="test_Case_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/test_Case_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test.test_Case_2" type="tests" factoryName="py.test">
+      <module name="automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$USER_HOME$/venv_automation_practise/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_Case_2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.test_Case_1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$USER_HOME$/venv_automation_practise/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_Case_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest for test.test_Case_2" />
+      <item itemvalue="Python tests.pytest for tests.test_Case_1" />
+      <item itemvalue="Python.test_Case_1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for tests.test_Case_1" />
+        <item itemvalue="Python.test_Case_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e349d359-e0a0-4356-839b-85236921bf93" name="Default Changelist" comment="" />
+      <created>1593196645104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593196645104</updated>
+      <workItem from="1593196649783" duration="22826000" />
+      <workItem from="1593310675944" duration="5079000" />
+      <workItem from="1593318676039" duration="2638000" />
+      <workItem from="1593784420834" duration="66000" />
+      <workItem from="1593784545220" duration="17000" />
+      <workItem from="1593784571580" duration="293000" />
+      <workItem from="1594091222257" duration="73000" />
+      <workItem from="1594091800755" duration="9654000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1593318710289</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593318710289</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1593318747075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593318747075</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1593318947733</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593318947733</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <created>1593319526021</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593319526021</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test23">
+      <created>1593319731973</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593319731973</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test23">
+      <created>1593320977915</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593320977915</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test23">
+      <created>1593321898722</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1593321898722</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test23">
+      <created>1593323709173</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1593323709173</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test update">
+      <created>1594177474621</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1594177474621</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <MESSAGE value="test" />
+    <MESSAGE value="test23" />
+    <MESSAGE value="test update" />
+    <option name="LAST_COMMIT_MESSAGE" value="test update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2000" y="205" key="#Notifications" timestamp="1593318045828">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2000" y="205" key="#Notifications/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593318045828" />
+    <state x="1864" y="221" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594178480025">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1864" y="202" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593232559725" />
+    <state x="1864" y="221" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.814/1440.23.1920.1057@1440.23.1920.1057" timestamp="1594178480025" />
+    <state x="2048" y="234" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1593233400400">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2048" y="234" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593233400400" />
+    <state x="2137" y="347" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594178454269">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2137" y="331" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593232532526" />
+    <state x="2137" y="347" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.814/1440.23.1920.1057@1440.23.1920.1057" timestamp="1594178454269" />
+    <state x="2117" y="166" key="#loginPage" timestamp="1593226995147">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2117" y="166" key="#loginPage/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593226995147" />
+    <state x="2117" y="180" key="#pytest_in_test_Case_1.py" timestamp="1594177042886">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2117" y="180" key="#pytest_in_test_Case_1.py/0.23.1440.814/1440.23.1920.1057@1440.23.1920.1057" timestamp="1594177042886" />
+    <state x="2117" y="166" key="#testCase_2" timestamp="1593232076375">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2117" y="166" key="#testCase_2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593232076375" />
+    <state x="2011" y="163" key="CommitChangelistDialog2" timestamp="1594177497623">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2011" y="143" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593323709080" />
+    <state x="2011" y="163" key="CommitChangelistDialog2/0.23.1440.814/1440.23.1920.1057@1440.23.1920.1057" timestamp="1594177497623" />
+    <state x="2154" y="322" key="EnvironmentVariablesDialog" timestamp="1593231758002">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2154" y="322" key="EnvironmentVariablesDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593231758002" />
+    <state x="2216" y="446" key="Github.CreateGistDialog" timestamp="1593309638879">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2216" y="446" key="Github.CreateGistDialog/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593309638879" />
+    <state x="2270" y="440" key="Github.ShareDialog" timestamp="1593312627039">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2270" y="440" key="Github.ShareDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593312627039" />
+    <state x="2271" y="440" key="Github.ShareDialog/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593309697456" />
+    <state x="2155" y="254" key="Github.UntrackedFilesDialog" timestamp="1593312646953">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2155" y="254" key="Github.UntrackedFilesDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593312646953" />
+    <state width="1878" height="492" key="GridCell.Tab.0.bottom" timestamp="1594260124635">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="517" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593310491510" />
+    <state width="1878" height="492" key="GridCell.Tab.0.bottom/0.23.1440.811/1440.23.1920.1057@1440.23.1920.1057" timestamp="1594260124635" />
+    <state width="1878" height="492" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.23.1920.1057@1440.23.1920.1057" timestamp="1594174524272" />
+    <state width="1878" height="492" key="GridCell.Tab.0.bottom/0.23.1440.814/1440.23.1920.1057@1440.23.1920.1057" timestamp="1594179393202" />
+    <state width="1878" height="517" key="GridCell.Tab.0.bottom/0.23.1440.816/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593234020725" />
+    <state width="1878" height="492" key="GridCell.Tab.0.center" timestamp="1594260124634">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="517" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593310491504" />
+    <state width="1878" height="492" key="GridCell.Tab.0.center/0.23.1440.811/1440.23.1920.1057@1440.23.1920.1057" timestamp="1594260124634" />
+    <state width="1878" height="492" key="GridCell.Tab.0.center/0.23.1440.812/1440.23.1920.1057@1440.23.1920.1057" timestamp="1594174524271" />
+    <state width="1878" height="492" key="GridCell.Tab.0.center/0.23.1440.814/1440.23.1920.1057@1440.23.1920.1057" timestamp="1594179393202" />
+    <state width="1878" height="517" key="GridCell.Tab.0.center/0.23.1440.816/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593234020723" />
+    <state width="1878" height="492" key="GridCell.Tab.0.left" timestamp="1594260124633">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="517" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593310491500" />
+    <state width="1878" height="492" key="GridCell.Tab.0.left/0.23.1440.811/1440.23.1920.1057@1440.23.1920.1057" timestamp="1594260124633" />
+    <state width="1878" height="492" key="GridCell.Tab.0.left/0.23.1440.812/1440.23.1920.1057@1440.23.1920.1057" timestamp="1594174524270" />
+    <state width="1878" height="492" key="GridCell.Tab.0.left/0.23.1440.814/1440.23.1920.1057@1440.23.1920.1057" timestamp="1594179393201" />
+    <state width="1878" height="517" key="GridCell.Tab.0.left/0.23.1440.816/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593234020722" />
+    <state width="1878" height="492" key="GridCell.Tab.0.right" timestamp="1594260124635">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="517" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593310491506" />
+    <state width="1878" height="492" key="GridCell.Tab.0.right/0.23.1440.811/1440.23.1920.1057@1440.23.1920.1057" timestamp="1594260124635" />
+    <state width="1878" height="492" key="GridCell.Tab.0.right/0.23.1440.812/1440.23.1920.1057@1440.23.1920.1057" timestamp="1594174524272" />
+    <state width="1878" height="492" key="GridCell.Tab.0.right/0.23.1440.814/1440.23.1920.1057@1440.23.1920.1057" timestamp="1594179393202" />
+    <state width="1878" height="517" key="GridCell.Tab.0.right/0.23.1440.816/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593234020724" />
+    <state width="1878" height="366" key="GridCell.Tab.1.bottom" timestamp="1593231933521">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593231933521" />
+    <state width="1878" height="366" key="GridCell.Tab.1.center" timestamp="1593231933519">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593231933519" />
+    <state width="1878" height="366" key="GridCell.Tab.1.left" timestamp="1593231933518">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593231933518" />
+    <state width="1878" height="366" key="GridCell.Tab.1.right" timestamp="1593231933520">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593231933520" />
+    <state x="1909" y="179" key="SettingsEditor" timestamp="1593318604966">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1909" y="179" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593318202460" />
+    <state x="1909" y="179" key="SettingsEditor/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593318604966" />
+    <state x="2238" y="416" key="VCS.EditChangelistDialog" timestamp="1593318003703">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2238" y="416" key="VCS.EditChangelistDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593311465458" />
+    <state x="2238" y="416" key="VCS.EditChangelistDialog/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593318003703" />
+    <state x="2000" y="297" key="Vcs.Push.Dialog.v2" timestamp="1594177513737">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593323722362" />
+    <state x="2000" y="297" key="Vcs.Push.Dialog.v2/0.23.1440.814/1440.23.1920.1057@1440.23.1920.1057" timestamp="1594177513737" />
+    <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593318798587" />
+    <state x="1540" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593312585918">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1540" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593312585918" />
+    <state x="2219" y="374" key="export.test.results" timestamp="1593207043392">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2219" y="374" key="export.test.results/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593207043392" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/auotmation$pytest_in_tests.coverage" NAME="pytest in testCase_2.py Coverage Results" MODIFIED="1593234020709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/auotmation$testCase_2.coverage" NAME="testCase_2 Coverage Results" MODIFIED="1593232502759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/automation$pytest_for_tests_test_Case_1.coverage" NAME="pytest for tests.test_Case_1 Coverage Results" MODIFIED="1594179299961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/automation$conftest.coverage" NAME="conftest Coverage Results" MODIFIED="1594174368697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/automation$test_Case_2.coverage" NAME="test_Case_2 Coverage Results" MODIFIED="1594178348616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/auotmation$testCase_1.coverage" NAME="testCase_1 Coverage Results" MODIFIED="1593206535325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/automation$pytest_for_test_test_Case_2.coverage" NAME="pytest for test.test_Case_2 Coverage Results" MODIFIED="1594257264652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/auotmation$pytest_in_testCase_1_py.coverage" NAME="pytest in testCase_1.py Coverage Results" MODIFIED="1593233938847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/automation$test_Case_1.coverage" NAME="test_Case_1 Coverage Results" MODIFIED="1594179058513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+  </component>
+</project>
