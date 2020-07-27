@@ -1,0 +1,7 @@
+[
+  "test_eCommerce.py::test_verify_item_mobile_list_page_sorted_by_name",
+  "test_eCommerce.py::test_verify_item_in_mobile_list_page_sorted_by_name",
+  "test_eCommerce.py::test_verify_cost_of_product_in_list_page_and_details_page_are_equal",
+  "test_eCommerce.py::test_verify_user_cannot_add_more_product_in_cart_than_product_available_in_store",
+  "test_eCommerce.py::test_verify_you_are_able_to_compare_two_product"
+]
