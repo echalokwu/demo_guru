@@ -175,3 +175,5 @@ def test_verify_you_are_able_to_compare_two_product(browser):
     # Switch back to window_before
     browser.switch_to.window(window_before)
 
+def test_verify_you_can_create_account_in_eCommerce_and_share_wishlist_to_other_people_using_email():
+
